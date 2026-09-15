@@ -1,6 +1,7 @@
 # Hi, I'm Vasileios Patsiotis 👋
 
 An Analytical Mechanical & Aeronautics Engineer specializing in **Computational Fluid Dynamics (CFD)**, **Multiphysics Coupling**, and **Scientific Computing**. I design, implement, and validate numerical solvers from first principles and develop automated workflows for high-fidelity engineering simulations.
+
 🔗 **Visual Portfolio:** https://patsbill02.wixsite.com/bill-pats-simulation
 
 ### 🎯 What I'm Looking For
